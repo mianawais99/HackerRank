@@ -19,11 +19,9 @@ The Employee table containing employee data for a company is described as follow
 
 where employee_id is an employee's ID number, name is their name, months is the total number of months they've been working for the company, and salary is their monthly salary.
 */
-
-
-
-
+/*
+Here the SQL Query
+*/
 SELECT name
 FROM Employee
 ORDER BY name ASC;
-
